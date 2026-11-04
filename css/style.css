@@ -1076,7 +1076,7 @@ PROGRESS
 	height: auto;
 	clear: both;
 	float: left;
-	padding: 140px 0px 100px 0px;
+	padding: 140px 0px 130px 0px;
 	background-color: #f9f9f9;
 }
 
@@ -1085,7 +1085,7 @@ PROGRESS
 	height: auto;
 	clear: both;
 	float: left;
-	padding-top: 45px;
+	padding-top: 90px;
 }
 
 .grax_tm_portfolio ul {
@@ -1467,7 +1467,7 @@ PROGRESS
 	height: auto;
 	clear: both;
 	float: left;
-	padding-top: 45px;
+	padding-top: 90px;
 }
 
 .grax_tm_news .news_list ul {
@@ -1985,7 +1985,7 @@ body.modal {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	margin-bottom: 45px;
+	margin-bottom: 90px;
 }
 
 #artwork .artwork_video .grax_tm_title_holder {
